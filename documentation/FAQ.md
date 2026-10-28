@@ -15,7 +15,7 @@ Maybe. More languages will need volunteers to help with translations. If you'd l
 
 ## Why are there countries that I've never heard of, or that aren't really countries?
 
-We've decided that to be eligible in a category, a sovereign nation must be recognized by **at least one UN member state**. This keeps the criteria objective rather than picking sides on disputed cases, so some entries may be unfamiliar or politically contested.
+We've decided that to be eligible in a category, a sovereign nation must follow the **Article 1 of the Montevideo Convention** and must be recognized by **at least one UN member state**. This keeps the criteria objective rather than picking sides on disputed cases, so some entries may be unfamiliar or politically contested.
 
 ## I found a bug, what do I do?
 
@@ -35,7 +35,7 @@ Flags are available as SVG, or as PNG at widths of 20, 40, 80, 160, 320, 640, 12
 
 ## A flag is missing, wrong, or outdated. Can I suggest a change?
 
-Yes. Open an issue at <https://github.com/BaguetteBunny/vxillum/issues> with the flag, the category it belongs in, and a source if you have one. Suggestions are checked against the UN recognition criteria above.
+Yes. Open an issue at <https://github.com/BaguetteBunny/vxillum/issues> with the flag, the category it belongs in, and a source if you have one. Suggestions are checked against the criteria above.
 
 ## Can I use the flag images in my own project?
 
